@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Protecting the outer asdrim",
+    "location": "Corvus, Jangala",
+    "speaker": "Jacob Mercer",
+    "type": "free",
+    "time": {
+      "start": "2022-02-17T14:30:00",
+      "end": "2022-02-17T16:30:00"
+    }
+  },
+  {
+    "name": "The art of spy asding",
+    "location": "Barad sector, Asharu",
+    "speaker": "Artemis Tau",
+    "type": "paid",
+    "time": {
+      "start": "2022-04-12T18:00:00",
+      "end": "2022-04-12T19:00:00"
+    }
+  },
+  {
+    "name": "A smugglers asdtale",
+    "location": "Atzalan, Nachiketa",
+    "speaker": "Kai Takeda",
+    "type": "vip",
+    "time": {
+      "start": "2022-06-23T17:00:00",
+      "end": "2022-06-23T17:30:00"
+    }
+  },
+  {
+    "name": "Protecting the outer rim",
+    "location": "Corvus, Jangala",
+    "speaker": "Jacob Mercer",
+    "type": "free",
+    "time": {
+      "start": "2022-02-17T14:30:00",
+      "end": "2022-02-17T16:30:00"
+    }
+  },
+  {
+    "name": "The art of spying",
+    "location": "Barad sector, Asharu",
+    "speaker": "Artemis Tau",
+    "type": "paid",
+    "time": {
+      "start": "2022-04-12T18:00:00",
+      "end": "2022-04-12T19:00:00"
+    }
+  },
+  {
+    "name": "A smugglers tale",
+    "location": "Atzalan, Nachiketa",
+    "speaker": "Kai Takeda",
+    "type": "vip",
+    "time": {
+      "start": "2022-06-23T17:00:00",
+      "end": "2022-06-23T17:30:00"
+    }
+  }
+]
