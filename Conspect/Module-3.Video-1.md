@@ -298,7 +298,7 @@ onClick вішажмо на <div className="Modal__backdrop"></div>
   }
  -->
 
-## Кнопки-иконки
+## Кнопки-іконки
 
 1. Створимо reusable-Component IconButton:
 
