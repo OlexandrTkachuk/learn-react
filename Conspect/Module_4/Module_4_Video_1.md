@@ -103,3 +103,44 @@ const [data, setData] = useState(() => JSON.parse(window.localStorage('data'))
  -->
 
 ## useRef
+
+Рефи використовуються для того, щоб отримати посилання на ДОМ-елемент.
+
+<!--
+const intervalId = useRef(null)
+console.log(intervalId)         // {current: null}
+console.log(intervalId.current) // null
+-->
+
+[useRef] - повертає об'єкт, він викликається лише один раз при рендері нашого
+копонента.
+
+## useContxt
+
+<!-- import {useState, useMemo} from 'react';
+     import authContext from './context'
+
+export const Provider = ({children}) => {
+  const [user, setUser] = useState(null);
+  const [isLoggedIn, setIsLoggedIn] = useState(false);
+
+  const onLogIn = () =>  {
+    setUser({name: 'mango'})
+    setIsLoggedIn(true);
+  }
+
+  const onLogOut = () => {
+    setUser(null);
+    setIsLoggedIn(false);
+  }
+
+  const providerValue = useMemo(() => {
+    return {user, isLoggedIn, onLogIn, onLogOut};
+  }, [isLoggedIn, user]);
+
+  return (
+    <authContext.Provider value={providerValue}>
+      {children}
+    </authContext.Provider>
+  )
+}  -->
